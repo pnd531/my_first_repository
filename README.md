@@ -3,5 +3,5 @@
 Here's our todo:
 
 -[x] Create a new file
-\n-[x] Make our first commit
-\n-[x] Fix this tpyo
+[x] Make our first commit
+-[x] Fix this typo
